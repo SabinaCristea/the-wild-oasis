@@ -13,14 +13,19 @@ export function useBookings() {
       : { field: "status", value: filterValue };
   // { field: "status", value: filterValue, method: "gte" };
 
+  // SORT
+  const sortByRaw = searchParams.get("sortBy") || "startDate-desc";
+  const [field, direction] = sortByRaw.split("-");
+  const sortBy = { field, direction };
+
   const {
     isLoading,
     data: bookings,
     error,
   } = useQuery({
-    queryKey: ["bookings", filter], // works as a dependency array
+    queryKey: ["bookings", filter, sortBy], // works as a dependency array
     // And so now, basically whenever this [filter] changes, then React Query will re-fetch the data.
-    queryFn: () => getBookings({ filter }),
+    queryFn: () => getBookings({ filter, sortBy }),
   });
 
   return { isLoading, bookings, error };
