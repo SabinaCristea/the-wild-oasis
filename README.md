@@ -3,7 +3,7 @@
 ## App built using React, JavaScript & Vite
 
 ## Live Demo
-Click [here](https://the-wild-oasis-six-silk.vercel.app/login) to see the live demo of the Wild Oasis.
+Click [here](https://the-wild-oasis-hjqvem1lb-sabinas-projects-d8286ade.vercel.app/login) to see the live demo of the Wild Oasis.
 
 ## Brief
 - Users of the app are hotel employees. They need to be logged into the application to perform tasks
