@@ -1,8 +1,35 @@
-# React + Vite
+# The Wild Oasis - Hotel Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## App built using React, JavaScript & Vite
 
-Currently, two official plugins are available:
+## Live Demo
+Click [here](https://the-wild-oasis-sabina.netlify.app/) to see the live demo of the Frontend Quiz.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Brief
+
+
+## Technologies Used
+- React
+- JavaScript
+- Vite
+- styled-components
+- React-router
+- Context API
+- React-query
+- Recharts
+- React hook form
+- Supabase
+
+## Screenshots
+<img src="src/assets/images/quiz-desktop-light.png" alt="Image1" width=50% height=50%>
+<img src="src/assets/images/quiz-desktop-dark.png" alt="Image2" width=50% height=50%>
+<img src="src/assets/images/quiz-tablet-light.png" alt="Image3" width=30% height=30%>
+<img src="src/assets/images/quiz-tablet-dark.png" alt="Image4" width=30% height=30%>
+<img src="src/assets/images/quiz-phone-light.png" alt="Image5" width=20% height=20%>
+<img src="src/assets/images/quiz-phone-dark.png" alt="Image6" width=20% height=20%>
+
+## License
+This project is licensed under [Jonas Schmedtmann](https://github.com/jonasschmedtmann?tab=overview&from=2024-02-01&to=2024-02-20).
+
+## Contact
+For any questions or inquiries, please feel free to reach out to me at sabinacristea997@gmail.com.
