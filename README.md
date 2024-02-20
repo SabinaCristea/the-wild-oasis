@@ -21,10 +21,10 @@ Click [here](https://the-wild-oasis-sabina.netlify.app/login) to see the live de
 - On check in, the guest has the ability to add breakfast for the entire stay, if they hadn’t already
 - Guest data contains: full name, email, national ID, nationality, and a country flag for easy identification
 - The initial app screen is a dashboard, to display important information for the last 7, 30, or 90 days:
--- A list of guests checking in and out on the current day. Users are able to perform these tasks from here
--- Statistics on recent bookings, sales, check ins, and occupancy rate
--- A chart showing all daily hotel sales, showing both “total” sales and “extras” sales (only breakfast at the moment)
--- A chart showing statistics on stay durations, as this is an important metric for the hotel
+  - A list of guests checking in and out on the current day. Users are able to perform these tasks from here
+  - Statistics on recent bookings, sales, check ins, and occupancy rate
+  - A chart showing all daily hotel sales, showing both “total” sales and “extras” sales (only breakfast at the moment)
+  - A chart showing statistics on stay durations, as this is an important metric for the hotel
 - Users are able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
 - App has a dark mode
 
