@@ -3,7 +3,7 @@
 ## App built using React, JavaScript & Vite
 
 ## Live Demo
-Click [here](https://the-wild-oasis-sabina.netlify.app/) to see the live demo of the Frontend Quiz.
+Click [here](https://the-wild-oasis-sabina.netlify.app/) to see the live demo of the Wild Oasis.
 
 ## Brief
 
